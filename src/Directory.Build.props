@@ -1,0 +1,7 @@
+<Project>
+  <!-- 中间产物放到系统临时目录，避免污染 mod 目录。 -->
+  <PropertyGroup>
+    <BaseIntermediateOutputPath>$(TEMP)\SocialPageSort-build\obj\</BaseIntermediateOutputPath>
+    <BaseOutputPath>$(TEMP)\SocialPageSort-build\bin\</BaseOutputPath>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,16 @@
+{
+  "button.name": "排序",
+  "button.tooltip": "选择下方村民的排序方式。",
+  "panel.tooltip": "点击名称按默认方向排序，点击箭头反转方向。",
+  "mode.friendship": "好感",
+  "mode.name": "名字（拼音）",
+  "mode.birthday": "生日",
+  "gmcm.mode.name": "排序方式",
+  "gmcm.mode.tooltip": "社交页按哪个键排序。",
+  "gmcm.friendship-desc.name": "好感：降序",
+  "gmcm.friendship-desc.tooltip": "好感从高到低排列。",
+  "gmcm.name-desc.name": "名字：降序",
+  "gmcm.name-desc.tooltip": "名字（拼音）按倒序排列。",
+  "gmcm.birthday-desc.name": "生日：降序",
+  "gmcm.birthday-desc.tooltip": "生日由远到近排列。"
+}

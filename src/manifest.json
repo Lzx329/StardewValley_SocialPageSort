@@ -1,0 +1,10 @@
+{
+  "Name": "Social Page Sort",
+  "Author": "lzxlx",
+  "Version": "1.0.0",
+  "Description": "Sort the social page by friendship, name (pinyin), or birthday.",
+  "UniqueID": "lzxlx.SocialPageSort",
+  "EntryDll": "SocialPageSort.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}

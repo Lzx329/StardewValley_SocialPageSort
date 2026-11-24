@@ -1,0 +1,16 @@
+{
+  "button.name": "Sort",
+  "button.tooltip": "Choose how to sort the villagers below.",
+  "panel.tooltip": "Click a name to sort by it with the default direction; click the arrow to reverse it.",
+  "mode.friendship": "Friendship",
+  "mode.name": "Name (Pinyin)",
+  "mode.birthday": "Birthday",
+  "gmcm.mode.name": "Sort mode",
+  "gmcm.mode.tooltip": "Which key the social page is sorted by.",
+  "gmcm.friendship-desc.name": "Friendship: descending",
+  "gmcm.friendship-desc.tooltip": "Sort friendship from highest to lowest.",
+  "gmcm.name-desc.name": "Name: descending",
+  "gmcm.name-desc.tooltip": "Sort names (pinyin) in reverse order.",
+  "gmcm.birthday-desc.name": "Birthday: descending",
+  "gmcm.birthday-desc.tooltip": "Sort birthdays from farthest to nearest."
+}
