@@ -2,6 +2,8 @@
 
 A small SMAPI mod for Stardew Valley 1.6 that adds a sort button to the social page, so you can order villagers by friendship, name (Chinese pinyin), or upcoming birthday.
 
+This mod was built with AI assistance and first of all for personal use. Feature decisions follow my own needs, and the code may not match everyone's habits. It has not been thoroughly tested and may contain bugs — feel free to report them on the repository's Issues page. Take it and use it if it helps.
+
 ## Features
 
 - Adds a sort button to the far left of the social page tab bar.
@@ -16,6 +18,15 @@ A small SMAPI mod for Stardew Valley 1.6 that adds a sort button to the social p
 
 - Stardew Valley 1.6
 - SMAPI 4.0.0 or later
+
+## Development and testing environment
+
+- Stardew Valley 1.6.15 (build 24356)
+- SMAPI 4.5.2
+- Windows 11 (10.0.26300.0)
+- .NET target framework: `net6.0`
+
+The mod has only been tested with the SMAPI version listed above. Other SMAPI versions, including other 4.x releases, have not been verified.
 
 ## Installation
 
